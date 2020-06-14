@@ -1,0 +1,25 @@
+Course: cs400
+Semester: Spring 2020
+Project name: Milk Weights
+A-Team Number: 58
+
+Members: 
+Shreyans Saraogi, Lecture 001, saraogi@wisc.edu,
+Yash Himmatramka, Lecture 001, himmatramka@wisc.edu,
+Gautam Agarwal, Lecture 002, gagarwal8@wisc.edu,
+Nicholas Mathew, Lecture 001 nmathew3@wisc.edu, and
+Pragyan Das, Lecture 002, pdas7@wisc.edu
+
+Bugs:
+FarmID not visible in some reports due to a TableView glitch
+Sorting by FarmID also buggy in some scenarios due to another TableView glitch
+
+To run the program:
+Use the provided executable file “executable.jar”
+Otherwise, using run configurations, add to the VM arguments the path to your java fx and then run main through the console
+
+Future work:
+Find a workaround for the TableView glitches, otherwise, find a different method of showing a table
+Add different ways of representing the data. Eg. A bar chart
+Improve the UI quality using external tools(could not do now due to the assignment specifications)
+Allow for farms to add descriptions to their entries. Eg. Farm 12 performed poorly in June due to a shortage of labour
